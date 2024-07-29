@@ -1,0 +1,15 @@
+blinker==1.8.2
+click==8.1.7
+colorama==0.4.6
+Flask==3.0.3
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+mysql==0.0.3
+mysql-connector==2.2.9
+mysql-connector-python==9.0.0
+mysqlclient==2.2.4
+pip==24.2
+ply==3.11
+PyMySQL==1.1.1
+Werkzeug==3.0.3
